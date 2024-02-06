@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+    <channel id="Cuatro.TV">
+    <display-name>Cuatro.TV</display-name> </channel>
+    <programme channel="Cuatro.TV" start="20240116135500 +0000" stop="20240116141500 +0000">
+    <title>El Desmarque de Cuatro mediodía. Lunes a viernes (T1): Episodio 144</title>
+    <desc>Espacio conducido por Luís García, Lucía Taboada y Joseba Larragaña que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, ''El Desmarque de Cuatro'' ofrece imágenes curiosas del universo deportivo.</desc>
+    <credits>
+    <presenter>Luís García</presenter>
+    </credits>
+    <date>16/01/2024</date>
+    <category>Deportes</category>
+     <language>Español</language>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P3227823"/>
+    </programme>
+    <programme channel="Cuatro.TV" start="20240116194500 +0000" stop="20240116195500 +0000">
+    <title>El Desmarque de Cuatro noche. Lunes a viernes (T1): Episodio 139</title>
+    <desc>Espacio conducido por Ricardo Reyes y Luís Alberto Vaquero que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, ''El Desmarque de Cuatro'' ofrece imágenes curiosas del universo deportivo.</desc>
+    <credits>
+    <presenter>Ricardo Reyes y Luís Alberto</presenter>
+    </credits>
+    <date>16/01/2024</date>
+    <category>Deportes</category>
+     <language>Español</language>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P3227815"/>
+    </programme>
+    <programme channel="Cuatro.TV" start="20240117135500 +0000" stop="20240117141500 +0000">
+    <title>El Desmarque de Cuatro mediodía. Lunes a viernes (T1): Episodio 145</title>
+    <desc>Espacio conducido por Luís García, Lucía Taboada y Joseba Larragaña que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, ''El Desmarque de Cuatro'' ofrece imágenes curiosas del universo deportivo.</desc>
+    <credits>
+    <presenter>Luís García</presenter>
+    </credits>
+    <date>16/01/2024</date>
+    <category>Deportes</category>
+     <language>Español</language>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P3227829"/>
+    </programme>
+    <programme channel="Cuatro.TV" start="20240117194000 +0000" stop="20240117200000 +0000">
+    <title>El Desmarque de Cuatro noche. Lunes a viernes (T1): Episodio 140</title>
+    <desc>Espacio conducido por Ricardo Reyes y Luís Alberto Vaquero que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, ''El Desmarque de Cuatro'' ofrece imágenes curiosas del universo deportivo.</desc>
+    <credits>
+    <presenter>Ricardo Reyes y Luís Alberto</presenter>
+    </credits>
+    <date>16/01/2024</date>
+    <category>Deportes</category>
+     <language>Español</language>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P3227837"/>
+    </programme>
+    <programme channel="Cuatro.TV" start="20240118003000 +0000" stop="20240118020000 +0000">
+    <title>El Desmarque de Cuatro medianoche (T1): Episodio 65</title>
+    <desc>Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes en una mesa de especialistas en información deportiva. El programa cobertura a la información de los encuentros de liga y competiciones internacionales.</desc>
+    <category>Deportes</category>
+     <language>Español</language>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P3227841"/>
+    </programme>
+    <programme channel="Cuatro.TV" start="20240118135500 +0000" stop="20240118141000 +0000">
+    <title>El Desmarque de Cuatro mediodía. Lunes a viernes</title>
+    <desc>Espacio conducido por Luís García, Lucía Taboada y Joseba Larragaña que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, ''El Desmarque de Cuatro'' ofrece imágenes curiosas del universo deportivo.</desc>
+    <credits>
+    <presenter>Luís García</presenter>
+    </credits>
+    <date>16/01/2024</date>
+    <category>Deportes</category>
+     <language>Español</language>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P3105571"/>
+    </programme>
+    <programme channel="Cuatro.TV" start="20240118194000 +0000" stop="20240118200000 +0000">
+    <title>El Desmarque de Cuatro noche. Lunes a viernes</title>
+    <desc>Espacio conducido por Ricardo Reyes y Luís Alberto Vaquero que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, ''El Desmarque de Cuatro'' ofrece imágenes curiosas del universo deportivo.</desc>
+    <credits>
+    <presenter>Ricardo Reyes y Luís Alberto</presenter>
+    </credits>
+    <date>16/01/2024</date>
+    <category>Deportes</category>
+     <language>Español</language>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P3105573"/>
+    </programme>
+    <programme channel="Cuatro.TV" start="20240119010000 +0000" stop="20240119021500 +0000">
+    <title>El Desmarque de Cuatro medianoche</title>
+    <desc>Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes en una mesa de especialistas en información deportiva. El programa cobertura a la información de los encuentros de liga y competiciones internacionales.</desc>
+    <category>Deportes</category>
+     <language>Español</language>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MC4P3096704"/>
+    </programme>
+</tv>
